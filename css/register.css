@@ -1,0 +1,10 @@
+.bgimg{
+  background-image: url('../img/img1.png');
+  margin: 0px;
+  padding: 0px;
+}
+.footer{
+  margin-top: 30px;
+  text-align: center;
+  opacity: 0.5;
+}
